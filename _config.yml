@@ -1,1 +1,9 @@
+title: Root
+description: I feel like I belong.
+google_analytics: G-FQ2ZVPM0H5
 theme: jekyll-theme-cayman
+show_urls: true
+github:
+  root_url: https://www.imdb.com/title/tt1839578/characters/nm0009918
+  shaw_url: https://www.imdb.com/title/tt1839578/characters/nm1083404
+  description: I've been hiding since I was 12<br>This might be the first time I feel like I belong
